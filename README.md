@@ -14,3 +14,5 @@ This project consists of facilities like:
 And a special button which can be used to reset the database. With each of the functionality being a separate python file.
 The project has a main screen which acts like to menu to all the other service screen.
 Each service is provided through a separate screen with the necessary details to be collected from the customer.
+
+Output in 'Project_report.pdf'
